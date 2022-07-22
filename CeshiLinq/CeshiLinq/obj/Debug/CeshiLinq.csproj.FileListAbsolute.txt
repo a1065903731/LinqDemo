@@ -1,0 +1,7 @@
+C:\Users\10659\Desktop\CeshiLinq\CeshiLinq\bin\Debug\CeshiLinq.exe.config
+C:\Users\10659\Desktop\CeshiLinq\CeshiLinq\bin\Debug\CeshiLinq.exe
+C:\Users\10659\Desktop\CeshiLinq\CeshiLinq\bin\Debug\CeshiLinq.pdb
+C:\Users\10659\Desktop\CeshiLinq\CeshiLinq\obj\Debug\CeshiLinq.csprojAssemblyReference.cache
+C:\Users\10659\Desktop\CeshiLinq\CeshiLinq\obj\Debug\CeshiLinq.csproj.CoreCompileInputs.cache
+C:\Users\10659\Desktop\CeshiLinq\CeshiLinq\obj\Debug\CeshiLinq.exe
+C:\Users\10659\Desktop\CeshiLinq\CeshiLinq\obj\Debug\CeshiLinq.pdb
