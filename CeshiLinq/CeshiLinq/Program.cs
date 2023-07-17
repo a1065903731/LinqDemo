@@ -11,6 +11,7 @@ namespace CeshiLinq
         private delegate string DelLambda();//没有参数
         private delegate void DelLambdaOne(string Param);//一个参数
         private delegate int DelLambdaTwo(int Param1, int param2);//两个参数表达多个
+        //测试分支上传 add by ylb 2023-7-17 13:56:40
 
         // Func表示有返回值,前面两个int入参，最后一个int回参
         static Func<int, int, int> add = (a, b) => a + b;
